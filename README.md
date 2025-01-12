@@ -10,4 +10,4 @@
 
 This is an example of a GitHub repository.
 
-Week 1: This class is going to be highly applicable for my Lastrada application.
+Week 1: This class is going to be highly applicable for my Lastrada application so that I can better understand the systems design Myles and Andrew are envisioning.
